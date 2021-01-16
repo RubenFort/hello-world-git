@@ -84,3 +84,11 @@ export  $initHighlight;
 | Maxi | Burgos | 456123 |
 | Tomas | Garcia | 753674 |
 | Pepe | Leis | 4567489 |
+
+# Citas 
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita
+
+Esto es otro texto que no se relaciona con la cira anterior.
+> Esto es otra cita
+
