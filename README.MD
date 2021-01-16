@@ -35,7 +35,7 @@ Underline2
 - [Esto es un link al index](index.html)
 
 # imagenes
-![Logo Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo Github](//https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 # Code Snippets
 Codigo en JSON
@@ -77,3 +77,10 @@ function $initHighlight(block, cls) {
 
 export  $initHighlight;
 ````
+
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Maxi | Burgos | 456123 |
+| Tomas | Garcia | 753674 |
+| Pepe | Leis | 4567489 |
