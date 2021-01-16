@@ -35,7 +35,7 @@ Underline2
 - [Esto es un link al index](index.html)
 
 # imagenes
-![Logo Github](//https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 # Code Snippets
 Codigo en JSON
